@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+}
+
+.blue {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fb00ee;
+  width: 100vw;
+  height: 100vh;
+}
+
+.darkblue {
+  border-radius: 0px 50px 50px;
+  background-color: #c3059a;
+  height: 50%;
+  width: 50%;
+}
+
+.div_c {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: #750249;
+  text-align: center;
+  font-size: 50px;
+  height: 300px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bold;
+}
+
+.filha_d {
+  width: 100vw;
+  height: 50vh;
+  background-color: #5a0733;
+}
+
+.neta_d {
+  width: 100vw;
+  height: 50%;
+  background-color: #b418b9;
+}

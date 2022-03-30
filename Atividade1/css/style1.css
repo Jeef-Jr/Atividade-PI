@@ -1,0 +1,32 @@
+
+.laranja{
+    background-color: #fb8500;
+    width: 500px;
+    height: 500px;
+}
+
+.verde{
+    background-color: #52b788;
+    height: 50%;
+    width: 50%;
+}
+
+.div_c {
+    color: white;
+    background-color: #780000;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.filha_d{
+    width: 50%;
+    height: 50vh;
+    background-color: #2461d3;
+}
+
+.neta_d{
+    width: 75vw;
+    height: 50%;
+    background-color: rgb(211, 36, 36);
+}
